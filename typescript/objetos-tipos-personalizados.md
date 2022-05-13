@@ -1,5 +1,5 @@
 ###### Navegación
-| ◀ | 🏠 | ▶︎ |
+| ◀︎ | 🏠 | ▶︎ |
 | - | - | - |
 | [Funciones y objetos](./funciones-objetos.md) | [Inicio](./README.md) | [Depuración de errores y el archivo tsconfig.json](./depuracion-tsconfig.md) |
 
