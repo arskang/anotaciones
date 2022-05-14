@@ -11,22 +11,26 @@ https://www.typescriptlang.org/docs/handbook/tsconfig-json.html
 ```
 
 - **Depuración**: se recomienda activar la siguiente configuración para generar los archivos ```.map``` correspondientes y dar depurar el código de ```typescript``` [⬆️](#navegación)
+```js
+/* Create source map files for emitted JavaScript files. */
+```
 
 ```json
 {
     "compilerOptions": {
-        /* Create source map files for emitted JavaScript files. */
         "sourceMap": true,
     }
 }
 ```
 
 - **Remover comentarios**: se recomienda activar la siguiente configuración para eliminar los comentarios en los archivos generados de ```typescript``` a ```javascript``` [⬆️](#navegación)
+```js
+/* Disable emitting comments. */
+```
 
 ```json
 {
     "compilerOptions": {
-        /* Disable emitting comments. */
         "removeComments": true
     }
 }
@@ -43,11 +47,16 @@ https://www.typescriptlang.org/docs/handbook/tsconfig-json.html
 ```
 
 - **Archivo de salida**: es recomendable generar un solo archivo de compilado a ```javascript```, para esto es necesario definir nuestro archivo de salida [⬆️](#navegación)
+```js
+/*
+Specify a file that bundles all outputs into one JavaScript file.
+If `declaration` is true, also designates a file that bundles all .d.ts output.
+*/
+```
 
 ```json
 {
     "compilerOptions": {
-        /* Specify a file that bundles all outputs into one JavaScript file. If `declaration` is true, also designates a file that bundles all .d.ts output. */
         "outFile": "./main.js"
     }
 }
