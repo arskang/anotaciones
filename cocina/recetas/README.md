@@ -2,3 +2,4 @@
 
 ## Índice
 
+- [Spaghetti](./spaghetti.md)
