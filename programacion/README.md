@@ -4,4 +4,4 @@ Apartado para las anotaciones de cualquier tema que tenga relación con la progr
 
 ## Índice
 
-- [Typescript](./typescript/) «actualización: **17/Mayo/2022**»
+- [Typescript](./typescript/)
