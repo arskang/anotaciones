@@ -47,3 +47,8 @@
 5. Ya que el ```jamón``` tenga la consistencia deseada, agrega poco a poco la mezcla que teniámos apartada y revuelve constantemente
 
 6. Finalmente a ```fuego lento``` agrega el ```spaguetti``` y revulve por unos minutos hasta que consideres que se ha mezclado todo correctamente
+
+### Aprovechar el agua de la pasta
+
+- [9 cosas que puedes hacer con el agua de cocer la pasta](https://www.cuerpomente.com/ecologia/reutilizar-agua-cocer-pasta_7855)
+- [Cómo usar agua que sobra de la pasta](https://es.wikihow.com/usar-agua-que-sobra-de-la-pasta)
