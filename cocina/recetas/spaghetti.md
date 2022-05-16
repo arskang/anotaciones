@@ -30,7 +30,7 @@
 - 200 gr. de pimiento morrón (La Costeña)
 - 4 rebanadas de queso amarillo
 - 1/4 de una cebolla
-- 200 gr. de jamón «opcional, se puede acompañar con los que gustes»
+- 200 gr. de jamón «opcional, se puede acompañar con lo que gustes»
 - 3 cucharadas de mantequilla
 - Un poco de aceite
 
@@ -38,7 +38,7 @@
 
 1. Parte los ```200 gr. de jamón``` en trozos pequeños o como mejor te guste.
 
-2. Licua o mezcla los siguientes ingredientes: ```150 ml. de media crema (Alpura)```, ```300 ml. de leche evaporada (Alpura)```, ```200 gr. de pimiento morrón (La Costeña)``` y ```4 rebanadas de queso amarillo```; una vez terminada la mezcla aparta el resultado. *Si prefieres mezclar no agregues el ```pimiento morrón``` aquí y parte en trozos pequeños o a tu gusto*
+2. Licua o mezcla los siguientes ingredientes: ```150 ml. de media crema (Alpura)```, ```300 ml. de leche evaporada (Alpura)```, ```200 gr. de pimiento morrón (La Costeña)``` y ```4 rebanadas de queso amarillo```; una vez terminada la mezcla aparta el resultado. *Si prefieres mezclar no agregues el ```pimiento morrón``` aquí y parte en trozos pequeños o a tu gusto; en cuanto a las ```rebanadas de queso amarillo``` trata de derretirlas un poco para que se más fácil mezclarla*
 
 3. En una sartén precalentada a fuego medio agrega ```un poco de aceite```, ```3 cucharadas de mantequilla``` y el ```1/4 de una cebolla``` en gajos; revuelve hasta que la mantequilla se derrita
 
