@@ -15,6 +15,7 @@
 - [NameSpaces](./namespaces.md)
 - [Genéricos](./generics.md)
 - [Decoradores](./decoradores.md)
+- [Usando librerías que no están en Typescript](./librerias.md)
 
 ### Instalaciones
 
