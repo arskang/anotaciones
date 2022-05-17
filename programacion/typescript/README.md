@@ -9,6 +9,12 @@
 - [Tipos básicos](./tipos-basicos.md)
 - [Funciones y objetos](./funciones-objetos.md)
 - [Objetos y tipos personalizados](./objetos-tipos-personalizados.md)
+- [Depuración de errores y el archivo tsconfig.json](./depuracion-tsconfig.md)
+- [Clases](./clases.md)
+- [Interfaces](./interfaces.md)
+- [NameSpaces](./namespaces.md)
+- [Genéricos](./generics.md)
+- [Decoradores](./decoradores.md)
 
 ### Instalaciones
 

@@ -1,7 +1,7 @@
 ###### Navegación
 | ◀︎ | 🏠 | ▶︎ |
 | - | - | - |
-| [Objetos y tipos personalizados](./objetos-tipos-personalizados.md) | [Inicio](./README.md) | [Depuración de errores y el archivo tsconfig.json](./depuracion-tsconfig.md) |
+| [Objetos y tipos personalizados](./objetos-tipos-personalizados.md) | [Inicio](./README.md) | [Clases](./clases.md) |
 
 ### Depuración de errores y el archivo tsconfig.json
 
@@ -36,7 +36,7 @@ https://www.typescriptlang.org/docs/handbook/tsconfig-json.html
 }
 ```
 
-- **Incluir y excluir carpetas**: es posible configurar que carpetas se pueden incluir o excluir del compilado a ```javascript``` [⬆️](#navegación)
+- **Incluir y excluir carpetas**: es posible configurar que carpetas se pueden incluir o excluir del transpilado a ```javascript``` [⬆️](#navegación)
 
 ```json
 {
@@ -46,7 +46,7 @@ https://www.typescriptlang.org/docs/handbook/tsconfig-json.html
 }
 ```
 
-- **Archivo de salida**: es recomendable generar un solo archivo de compilado a ```javascript```, para esto es necesario definir nuestro archivo de salida [⬆️](#navegación)
+- **Archivo de salida**: es recomendable generar un solo archivo de transpilado a ```javascript```, para esto es necesario definir nuestro archivo de salida [⬆️](#navegación)
 ```js
 /*
 Specify a file that bundles all outputs into one JavaScript file.
