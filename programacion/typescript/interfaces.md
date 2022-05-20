@@ -7,7 +7,7 @@
 
 - [Interface vs Type](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#differences-between-type-aliases-and-interfaces) «última consulta: **16/Mayo/2022**»
 
-- **Clase básica**: las interfaces son muy parecidas a los ```types``` la única diferencia es que una ```interface``` puede expandirse; por eso se recomienda utilizar ```types```cuando no se tiene pensado su expansión [⬆️](#navegación)
+- **Interface**: las interfaces son muy parecidas a los ```types``` la única diferencia es que una ```interface``` puede expandirse; por eso se recomienda utilizar ```types```cuando no se tiene pensado su expansión [⬆️](#navegación)
 ```ts
 // Correcto
 interface Person {
