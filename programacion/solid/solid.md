@@ -207,11 +207,6 @@ class Penguin implements Bird, SwimmingBird {
 «Los módulos de alto nivel no deben depender de módulos de bajo nivel. Ambos deben depender de abstracciones. Las abstracciones no deben depender de concreciones. Los detalles deben depender de abstracciones» - Robert C. Martin
 
 ```ts
-```
-
-- **título**: [⬆️](#navegación)
-
-```ts
 // Por buena práctica se recomienda generar
 // la interface de nuestras respuestas HTTP
 interface Post {
